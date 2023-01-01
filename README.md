@@ -5,4 +5,4 @@ Anyone can use!
 Credit is appriciated.
 
 Unstable - Versions that are unstable and contain *known* bugs.
-Stable - Version has no noticable bugs.
+Stable - Version has no noticable bugs. 
